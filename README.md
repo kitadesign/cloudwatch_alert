@@ -19,3 +19,7 @@ direnv allow
 * cloudwatch_alert.inoを編集し、Arduinoに書き込む
 
 * Node.jsを実行する
+```
+npm install
+npm start
+```
