@@ -23,3 +23,6 @@ direnv allow
 npm install
 npm start
 ```
+
+
+[Blog](http://blog.picomon.jp/tech/?p=580)
