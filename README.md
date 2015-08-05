@@ -2,7 +2,7 @@
 AWSのCloudWatchのアラートをArduinoで表現する
 ![Alt text](http://blog.picomon.jp/tech/wp-content/uploads/sites/5/2015/08/2015-08-03-20.23.40.jpg)
 
-## イントール
+## インストール
 direnvとNode.js 0.10系、Arduino IDEを用意する
 
 * このリポジトリをgit cloneする
